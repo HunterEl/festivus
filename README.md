@@ -4,7 +4,7 @@ _A Festivus for the rest of us_
 
 A library to provide typed interfaces and definitions for the [Fantasy-land spec](https://github.com/fantasyland/fantasy-land) and some other FP/Haskell types.
 
-This is most likely a terrible idea, but will serve as a learning tool and a way to lower the barrier to entry for FP/Category theory concepts.
+This is most likely a terrible idea, but will serve as a learning tool and a way to lower the barrier of entry for FP & Category-Theory concepts.
 
 ## Why
 
